@@ -1,2 +1,2 @@
-# matrix
-Matrix Calculator Using PHP and HTML
+# Matrix
+Matrix Calculator Using PHP and HTML!
